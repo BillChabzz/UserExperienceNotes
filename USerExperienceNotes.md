@@ -29,3 +29,15 @@ the current state of device.
 
 The designer must develop conceptual model that is appropriate for user, captures important parts of the operation of device and understandable by the 
 user.
+
+Three aspects of mental models must be distinguished:
+* design model- conceptualization in the designer's mind
+* user's model- what the user develops to explain operation of system
+* system image-physical appearance for operation
+
+##Simplify the structure of tasks
+
+Tasks should be simple in structure, minimizing amount of planning.
+Technological aids can show alternative courses of action, help evaluate implications, and portray outcomes in a more complete interpretable manner.
+
+Four technological approaches can be followed:
