@@ -44,4 +44,7 @@ Four technological approaches can be followed:
 
 1. Keep task much the same but provice mental aids- mental aids such as watches,timers,calculators,pocket dicating machines,computer notepads. The idea is, we cannot trust our memory structures to provide essential day-to-dy functioning.
 2. Use technology to make visible what would otherwise be invisible improves feedback and ability to keep control-for exapmle a vehicle displays speed,temperature and lets you know what is going on without physical interaction.
-3. Automate but keep task much the same
+3. Automate but keep task much the same-automation can harm as well as help. The task remains the same but parts of it will disappear.Automation of ship and aircraft instruments have been great improvements.
+4. Change the nature of the task- when a task is too complex because of a manual skill required, certain technological aids can change the type os skill required by restructuring the task. Technology can help transform deep wide structures into narrower,shallower ones. For example traditional watches required one to learn the mapping of the analogue hands have been replaced by digital watches.
+
+
