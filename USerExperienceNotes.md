@@ -41,4 +41,7 @@ Tasks should be simple in structure, minimizing amount of planning.
 Technological aids can show alternative courses of action, help evaluate implications, and portray outcomes in a more complete interpretable manner.
 
 Four technological approaches can be followed:
-1. Keep task much the same but provice mental aids-
+
+1. Keep task much the same but provice mental aids- mental aids such as watches,timers,calculators,pocket dicating machines,computer notepads. The idea is, we cannot trust our memory structures to provide essential day-to-dy functioning.
+2. Use technology to make visible what would otherwise be invisible improves feedback and ability to keep control-for exapmle a vehicle displays speed,temperature and lets you know what is going on without physical interaction.
+3. Automate but keep task much the same
