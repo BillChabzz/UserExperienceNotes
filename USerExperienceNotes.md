@@ -41,3 +41,4 @@ Tasks should be simple in structure, minimizing amount of planning.
 Technological aids can show alternative courses of action, help evaluate implications, and portray outcomes in a more complete interpretable manner.
 
 Four technological approaches can be followed:
+1. Keep task much the same but provice mental aids-
