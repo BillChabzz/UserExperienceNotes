@@ -47,4 +47,46 @@ Four technological approaches can be followed:
 3. Automate but keep task much the same-automation can harm as well as help. The task remains the same but parts of it will disappear.Automation of ship and aircraft instruments have been great improvements.
 4. Change the nature of the task- when a task is too complex because of a manual skill required, certain technological aids can change the type os skill required by restructuring the task. Technology can help transform deep wide structures into narrower,shallower ones. For example traditional watches required one to learn the mapping of the analogue hands have been replaced by digital watches.
 
+###Don't take away control
+
+Automation has its virtues,but automation is dangerous when it takes too much control from the user.
+
+Over reliance on automated equipment can eliminate a person's ability to function without it
+
+Another problem is a system may not always do things exactly the way you would like.
+
+A person becomes a servant of the system, can no longer be able to control or influence what is happening.
+
+###All tasks have several layers of control.
+
+The lowest level is the details of the operation
+
+The higher levels affect the overall task.In these levels we determine, supervise and control overall structure and goals.
+
+###Make things visible:Bridge the Gulfs of Execution and Evaluation.
+
+Make things visible on execution side of an action so that people know what is possible and how actions should be done.
+
+The system should provide actions that match intentions.Provide indications of system state which should be visible/audible and readily interpretable.
+
+###Get the mappings right
+Exploit natural mappings.Make sure a user can determine relationships between:
+* intentions and possible actions
+* actions and their effects on the system
+* actual system state and what is perceivable by sight
+* percieved system state and the needs, intentions and expectations of the user.
+
+Natural mappings are the basis of "response cpmpatibility". Its major requirement is that spatial relationship btn positioning of controls and system or objects upon which they operate should be as direct as possible.
+
+###Exploit power of constraints,both natural and artificial
+
+Use constraints so that the user feels as if there is only one possible thing to do.
+
+###Design for error
+
+-Assume any error that can be made will be made.Plan for it.Think of any action by the user. Allow the usr to recover from errors to know what was done and what happened.
+
+-Think of action as a constructive dialog between user and system.
+
+
 
