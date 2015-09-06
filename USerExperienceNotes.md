@@ -88,5 +88,9 @@ Use constraints so that the user feels as if there is only one possible thing to
 
 -Think of action as a constructive dialog between user and system.
 
+###When all else fails,standardize
+
+When something cant be designed without arbitrary mappings and difficulties, standardise actions,outcomes,layouts,display. Standardize the system andmake related actions work in the same way. The benefit of standardization is that the mechanism is learnedonce.Standardize is essential only when all necessary info cannot be placed in the world or when natural mappings cannot be exploited.
+
 
 
